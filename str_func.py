@@ -5,3 +5,11 @@ def upper_func(string):
     """
     string_upper = string.upper()
     return string_upper
+
+
+def title_func(word):
+    """
+    Функция принимает ввод и возвращает текст с первыми заглавными буквами
+    """
+    string_title = word.title()
+    return string_title
