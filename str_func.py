@@ -10,6 +10,7 @@ def upper_func(string):
 def title_func(word):
     """
     Функция принимает ввод и возвращает текст с первыми заглавными буквами
+    2
     """
     string_title = word.title()
     return string_title
